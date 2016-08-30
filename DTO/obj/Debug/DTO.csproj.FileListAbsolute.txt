@@ -1,0 +1,5 @@
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\DTO\bin\Debug\DTO.dll
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\DTO\bin\Debug\DTO.pdb
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\DTO\obj\Debug\DTO.dll
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\DTO\obj\Debug\DTO.pdb
