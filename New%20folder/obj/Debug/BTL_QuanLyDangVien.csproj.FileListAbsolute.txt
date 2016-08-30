@@ -1,0 +1,3 @@
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\BTL_QuanLyDangVien\bin\Debug\BTL_QuanLyDangVien.exe.config
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\BTL_QuanLyDangVien\obj\Debug\BTL_QuanLyDangVien.exe
+C:\Users\Ngoc Tuan\Documents\Visual Studio 2015\Projects\Visual C#\Desktop\BTL_QuanLyDangVien\BTL_QuanLyDangVien\obj\Debug\BTL_QuanLyDangVien.pdb
